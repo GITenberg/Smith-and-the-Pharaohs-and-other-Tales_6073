@@ -1,0 +1,32 @@
+_repo: Smith-and-the-Pharaohs-and-other-Tales_6073
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Henry Rider
+    - Haggard, Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: ''
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'Fantasy fiction, English'
+- !lcsh 'Adventure stories, English'
+- GITenberg
+tableOfContents: Smith and the pharaohs -- Magepa the buck --The blue curtains --
+  Little flower -- Only a dream -- Barbara who came back.
+title: Smith and the Pharaohs, and other Tales
+url: http://www.gutenberg.org/ebooks/6073
